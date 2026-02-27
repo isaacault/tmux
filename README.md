@@ -1,1 +1,5 @@
-# tmux
+# tmux Dotfiles
+
+```console
+./setup.sh
+```
