@@ -38,4 +38,4 @@ The prefix is `C-a`.
 ## Notes
 
 - On Linux the copy-mode binding needs `xclip` installed.
-- Catppuccin options must be set before the `run` line for tpm at the bottom of `tmux.conf`.
+- Catppuccin v2 options (`@catppuccin_*`) must be set before the `run` line for tpm. The `status-right` modules are set after it, since they only exist once the plugin has loaded.
